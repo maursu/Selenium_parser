@@ -1,0 +1,6 @@
+requests
+selenium
+sqlalchemy
+psycopg2-binary
+python-decouple
+docker
