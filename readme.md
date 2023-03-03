@@ -24,6 +24,7 @@ touch .env
 ```
 
 fill .env file with:
+```bash
 DB_NAME=
 DB_USER=
 USER_PASSWORD=
@@ -31,6 +32,7 @@ HOST=localhost
 PORT=5432
 DRIVER_PATH=
 URL=https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273
+```
 
 insert your values to DB_NAME, DB_USER, USER_PASSWORD, DRIVER_PATH
 
